@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dev-sandeep-pal/nodejs-examples-snippet/issues"
   },
-  "homepage": "https://github.com/dev-sandeep-pal/nodejs-examples-snippet#readme"
+  "homepage": "https://github.com/dev-sandeep-pal/nodejs-examples-snippet#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
